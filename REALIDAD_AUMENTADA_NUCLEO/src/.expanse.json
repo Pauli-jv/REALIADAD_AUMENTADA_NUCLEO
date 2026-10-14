@@ -100,7 +100,8 @@
         1
       ],
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "order": 1.0308214152219775
+      "order": 1.0308214152219775,
+      "hidden": true
     },
     "ac1989e3-3b71-49e2-a05f-e682aeb18c36": {
       "components": {},
@@ -130,6 +131,34 @@
       ],
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "order": 0.6644431107322474
+    },
+    "e91c86a8-81d9-424c-9896-45dedff4f25b": {
+      "id": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Objetivo de la imagen",
+      "imageTarget": {
+        "name": "mapa ´´3D´´"
+      },
+      "order": 2.913913935010341
     }
   },
   "spaces": {
