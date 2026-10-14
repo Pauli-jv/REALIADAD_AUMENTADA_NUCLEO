@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 84,
+    "left": 0,
+    "width": 834,
+    "height": 1112,
+    "isRotated": false,
+    "originalWidth": 834,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/mapa ´´3D´´_luminance.jpg",
+  "metadata": null,
+  "name": "mapa ´´3D´´",
+  "resources": {
+    "originalImage": "mapa ´´3D´´_original.jpg",
+    "croppedImage": "mapa ´´3D´´_cropped.jpg",
+    "thumbnailImage": "mapa ´´3D´´_thumbnail.jpg",
+    "luminanceImage": "mapa ´´3D´´_luminance.jpg"
+  },
+  "created": 1791937078625,
+  "updated": 1791937078625
+}
