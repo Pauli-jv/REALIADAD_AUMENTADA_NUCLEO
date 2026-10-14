@@ -52,7 +52,7 @@
       "position": [
         0,
         0.5,
-        0
+        -2.307962821238925
       ],
       "rotation": [
         0,
@@ -65,7 +65,7 @@
         1,
         1
       ],
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "order": 1.4038940050501252
     },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
@@ -136,8 +136,8 @@
       "id": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "position": [
         0,
-        0,
-        0
+        0.6842541480189557,
+        0.2519939381412689
       ],
       "rotation": [
         0,
@@ -159,6 +159,52 @@
         "name": "mapa ´´3D´´"
       },
       "order": 2.913913935010341
+    },
+    "3c63096d-0c12-4f27-a633-29d231c53606": {
+      "id": "3c63096d-0c12-4f27-a633-29d231c53606",
+      "position": [
+        0.05676626406143587,
+        1.0267733286484018,
+        0.2727174166938384
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 92,
+        "height": 32,
+        "background": "#ad50ff",
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icono_calentado.jpeg"
+        },
+        "backgroundSize": "contain",
+        "borderRadius": 17
+      },
+      "name": "Botón",
+      "order": 5.653861373658602,
+      "imageTarget": {
+        "name": "interfaz calentado"
+      }
     }
   },
   "spaces": {
