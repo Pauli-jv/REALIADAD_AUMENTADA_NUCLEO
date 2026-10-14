@@ -66,7 +66,8 @@
         1
       ],
       "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
-      "order": 1.4038940050501252
+      "order": 1.4038940050501252,
+      "hidden": true
     },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
       "camera": {
@@ -84,12 +85,12 @@
       "material": null,
       "name": "Camera",
       "position": [
-        0,
-        2,
+        0.018375260146761885,
+        1.1605856656553037,
         3
       ],
       "rotation": [
-        0.0004436887233141012,
+        0.00044368872331410124,
         0.9659425615285845,
         -0.25875089860082223,
         0.0016563336561801576
@@ -101,7 +102,7 @@
       ],
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "order": 1.0308214152219775,
-      "hidden": true
+      "hidden": false
     },
     "ac1989e3-3b71-49e2-a05f-e682aeb18c36": {
       "components": {},
@@ -160,12 +161,12 @@
       },
       "order": 2.913913935010341
     },
-    "3c63096d-0c12-4f27-a633-29d231c53606": {
-      "id": "3c63096d-0c12-4f27-a633-29d231c53606",
+    "c5596201-7730-4a9f-9754-63c0bbc94d05": {
+      "id": "c5596201-7730-4a9f-9754-63c0bbc94d05",
       "position": [
-        0.05676626406143587,
-        1.0267733286484018,
-        0.2727174166938384
+        0.03407575579175823,
+        1.0113066518349223,
+        0.34153672822778147
       ],
       "rotation": [
         0,
@@ -184,9 +185,10 @@
       "components": {},
       "ui": {
         "type": "3d",
-        "width": 92,
-        "height": 32,
+        "width": 35,
+        "height": 36,
         "background": "#ad50ff",
+        "borderRadius": 18,
         "flexDirection": "row",
         "backgroundOpacity": 1,
         "padding": "10",
@@ -197,11 +199,10 @@
           "type": "asset",
           "asset": "assets/Icono_calentado.jpeg"
         },
-        "backgroundSize": "contain",
-        "borderRadius": 17
+        "backgroundSize": "contain"
       },
       "name": "Botón",
-      "order": 5.653861373658602,
+      "order": 4.779581659018939,
       "imageTarget": {
         "name": "interfaz calentado"
       }
