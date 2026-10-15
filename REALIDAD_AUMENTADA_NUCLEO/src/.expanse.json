@@ -165,8 +165,8 @@
       "id": "1a29bf7f-5e74-4155-beb1-530b52e575bb",
       "position": [
         0.014638005133509435,
-        0.43175116198680197,
-        0.6466683832801512
+        -0.2525029860321537,
+        0.3946744451388823
       ],
       "rotation": [
         0.3746065934159123,
@@ -181,7 +181,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "gltfModel": {
         "src": {
@@ -192,14 +192,14 @@
         "loop": true
       },
       "name": "mapa_realidad_aumentada.glb",
-      "order": 4.400410980420246
+      "order": 2.4370721405269964
     },
     "64b7fb35-2656-4860-a2ad-5bcb61835bac": {
       "id": "64b7fb35-2656-4860-a2ad-5bcb61835bac",
       "position": [
         -0.13875923771075363,
-        1.1438275476641055,
-        0.900116257652593
+        0.45957339964514987,
+        0.648122319511324
       ],
       "rotation": [
         0,
@@ -214,7 +214,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -229,14 +229,14 @@
         "ignoreRaycast": true
       },
       "name": "pin_migao",
-      "order": 6.0289488654360825
+      "order": 2.4702502760038674
     },
     "135b7c1f-6f2b-45bc-8073-e78a5051d02b": {
       "id": "135b7c1f-6f2b-45bc-8073-e78a5051d02b",
       "position": [
         0.2358794728496328,
-        0.7294863449047796,
-        1.217559216649368
+        0.045232196885823917,
+        0.9655652785080991
       ],
       "rotation": [
         0.1391731009600655,
@@ -251,7 +251,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -265,14 +265,14 @@
         "backgroundSize": "contain"
       },
       "name": "pin_mazamorra",
-      "order": 7.633033301473003
+      "order": 2.503428411480739
     },
     "282c9ed8-e9f0-4137-a8ee-a4424381301c": {
       "id": "282c9ed8-e9f0-4137-a8ee-a4424381301c",
       "position": [
         -0.13109582847024986,
-        0.6154554504183088,
-        1.2343650543689524
+        -0.06879869760064683,
+        0.9823711162276835
       ],
       "rotation": [
         -0.3893569285968286,
@@ -287,7 +287,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -301,14 +301,14 @@
         "backgroundSize": "contain"
       },
       "name": "pin_fiambre",
-      "order": 8.75681820118275
+      "order": 2.53660654695761
     },
     "b2f989bd-0078-4b2d-a8fa-215aca5c7441": {
       "id": "b2f989bd-0078-4b2d-a8fa-215aca5c7441",
       "position": [
         0.050020516367501516,
-        1.1213619368026446,
-        0.893291494747456
+        0.43710778878368894,
+        0.641297556606187
       ],
       "rotation": [
         0,
@@ -323,7 +323,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -337,20 +337,20 @@
         "backgroundSize": "contain"
       },
       "name": "pin_calentado",
-      "order": 9.904149831579657
+      "order": 2.569784682434481
     },
     "5bbc2813-811f-4ac0-b06c-d1186027bbb6": {
       "id": "5bbc2813-811f-4ac0-b06c-d1186027bbb6",
       "position": [
         0.27770323931896035,
-        0.993408632637867,
-        0.9079061455199477
+        0.3091544846189114,
+        0.6559122073786788
       ],
       "rotation": [
         0,
         0,
         -0.4226182617407,
-        0.9063077870366496
+        0.9063077870366497
       ],
       "scale": [
         1.0000000000000009,
@@ -359,7 +359,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -373,14 +373,14 @@
         "backgroundSize": "contain"
       },
       "name": "pin_bandejapaisa",
-      "order": 11.292620512575365
+      "order": 2.602962817911352
     },
     "b09c0cbf-b2e6-4422-9eec-a325a2f4095f": {
       "id": "b09c0cbf-b2e6-4422-9eec-a325a2f4095f",
       "position": [
         0.12241905480742565,
-        0.9339424666132714,
-        1.0802791949942325
+        0.24968831859431573,
+        0.8282852568529636
       ],
       "rotation": [
         0.043619387365336014,
@@ -395,7 +395,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -409,14 +409,14 @@
         "backgroundSize": "contain"
       },
       "name": "pin_arepa",
-      "order": 13.055366100691248
+      "order": 2.6361409533882236
     },
     "3650c96d-e253-403a-a189-efde0344fe87": {
       "id": "3650c96d-e253-403a-a189-efde0344fe87",
       "position": [
         0.2398902800531778,
-        1.2637879811455708,
-        1.132270283466368
+        0.5795338331266151,
+        0.8802763453250991
       ],
       "rotation": [
         0,
@@ -431,7 +431,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -452,14 +452,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_arepa",
-      "order": 14.997072510653169
+      "order": 2.6693190888650946
     },
     "c7c24e66-6e93-46c8-bcde-ec3de1496a7d": {
       "id": "c7c24e66-6e93-46c8-bcde-ec3de1496a7d",
       "position": [
         0.5447907752733652,
-        1.210377040792338,
-        0.9314252671186953
+        0.5261228927733823,
+        0.6794313289774264
       ],
       "rotation": [
         0,
@@ -474,7 +474,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -495,14 +495,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_bandeja",
-      "order": 16.85470845272584
+      "order": 2.702497224341966
     },
     "b9ff5cd6-2c8f-4321-a583-5f502a423dbc": {
       "id": "b9ff5cd6-2c8f-4321-a583-5f502a423dbc",
       "position": [
         -0.34422682997620946,
-        0.7901829927832738,
-        1.2893232093375535
+        0.10592884476431808,
+        1.0373292711962847
       ],
       "rotation": [
         0,
@@ -517,7 +517,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -538,14 +538,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_fiambre",
-      "order": 18.793690522116847
+      "order": 2.7356753598188375
     },
     "cc1d48dc-8776-4850-a8de-18d638940536": {
       "id": "cc1d48dc-8776-4850-a8de-18d638940536",
       "position": [
         0.4348337521317568,
-        0.9946240211677793,
-        1.1690964431844433
+        0.3103698731488236,
+        0.9171025050431744
       ],
       "rotation": [
         0,
@@ -560,7 +560,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -581,14 +581,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_mazamorra",
-      "order": 20.152530656209922
+      "order": 2.7688534952957085
     },
     "b7818192-f08e-477c-9168-6d3378797b72": {
       "id": "b7818192-f08e-477c-9168-6d3378797b72",
       "position": [
         -0.2519138896075521,
-        1.4881553538209746,
-        0.9385195856545019
+        0.803901205802019,
+        0.686525647513233
       ],
       "rotation": [
         0,
@@ -603,7 +603,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -624,14 +624,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_migao",
-      "order": 22.139903651765287
+      "order": 2.80203163077258
     },
     "6ece5ecb-673c-4e31-917e-7551f42d8a0f": {
       "id": "6ece5ecb-673c-4e31-917e-7551f42d8a0f",
       "position": [
         0.07794409015324769,
-        1.4911038095895983,
-        0.9136096683922286
+        0.8068496615706426,
+        0.6616157302509597
       ],
       "rotation": [
         0,
@@ -646,7 +646,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -667,14 +667,14 @@
         "backgroundSize": "contain"
       },
       "name": "icono_calentado",
-      "order": 24.013856338129752
+      "order": 2.835209766249451
     },
     "09d92e14-e766-4d7e-b705-81fb074d7901": {
       "id": "09d92e14-e766-4d7e-b705-81fb074d7901",
       "position": [
         0.10847114804402536,
-        2.0664158553124023,
-        0.7707330632473304
+        1.3821617072934467,
+        0.5187391251060615
       ],
       "rotation": [
         0,
@@ -689,7 +689,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "width": 100,
@@ -704,14 +704,14 @@
         "backgroundSize": "contain"
       },
       "name": "interfaz cale",
-      "order": 25.352099824294758
+      "order": 2.8683879017263223
     },
     "bf725859-c2cf-49d0-95bb-5f5b6d175933": {
       "id": "bf725859-c2cf-49d0-95bb-5f5b6d175933",
       "position": [
         -0.014142730772228967,
-        1.7144936189472393,
-        0.7819834858179217
+        1.0302394709282836,
+        0.5299895476766527
       ],
       "rotation": [
         0,
@@ -726,7 +726,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -747,14 +747,14 @@
         "backgroundSize": "contain"
       },
       "name": "boton_personaje",
-      "order": 26.747456493374624
+      "order": 2.9015660372031933
     },
     "b1a35e83-2cd8-4f88-853f-b182e3871221": {
       "id": "b1a35e83-2cd8-4f88-853f-b182e3871221",
       "position": [
         0.2185786109572735,
-        1.713830364612985,
-        0.8332337834841702
+        1.0295762165940294,
+        0.5812398453429013
       ],
       "rotation": [
         0,
@@ -769,7 +769,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -790,14 +790,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_lista",
-      "order": 28.07612702653672
+      "order": 2.9347441726800647
     },
     "1ceff067-3e79-4922-accf-eec3c3bafaaf": {
       "id": "1ceff067-3e79-4922-accf-eec3c3bafaaf",
       "position": [
         -0.15537503897816973,
-        1.63928502058189,
-        0.7799220372315586
+        0.9550308725629344,
+        0.5279280990902897
       ],
       "rotation": [
         0,
@@ -812,7 +812,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -833,14 +833,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_devover_interfazplato",
-      "order": 30.059140778748045
+      "order": 2.967922308156936
     },
     "9af578fb-f0e7-4f7c-89ae-694d9948c133": {
       "id": "9af578fb-f0e7-4f7c-89ae-694d9948c133",
       "position": [
         0.8416399745152602,
-        2.063402728540215,
-        0.8668001638284342
+        1.379148580521259,
+        0.6148062256871653
       ],
       "rotation": [
         0,
@@ -855,7 +855,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "width": 100,
@@ -870,14 +870,14 @@
         "backgroundSize": "contain"
       },
       "name": "interfaz_pasos",
-      "order": 31.643463288496747
+      "order": 3.0674567145875495
     },
     "ec755857-efed-404d-90a4-03fb04ab501e": {
       "id": "ec755857-efed-404d-90a4-03fb04ab501e",
       "position": [
         0.5644442217942239,
-        1.63928502058189,
-        0.9070900453168814
+        0.9550308725629344,
+        0.6550961071756125
       ],
       "rotation": [
         0,
@@ -892,7 +892,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -913,14 +913,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_devover_interfazpasos",
-      "order": 30.675504848333347
+      "order": 3.001100443633807
     },
     "f0617e2f-fa7f-4495-afe7-59ebfa937ecd": {
       "id": "f0617e2f-fa7f-4495-afe7-59ebfa937ecd",
       "position": [
         -0.8197329024694346,
-        2.007296056685607,
-        0.5901825819245126
+        1.3230419086666514,
+        0.33818864378324365
       ],
       "rotation": [
         0,
@@ -935,7 +935,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "width": 100,
@@ -950,14 +950,14 @@
         "backgroundSize": "contain"
       },
       "name": "interfaz_personaje_audio",
-      "order": 33.40511806392532
+      "order": 3.100634850064421
     },
     "06a3adbc-71a4-4749-bf0e-d0b0dbbb0fd9": {
       "id": "06a3adbc-71a4-4749-bf0e-d0b0dbbb0fd9",
       "position": [
         -1.0848462828379988,
-        1.755979261660293,
-        0.9070900453168814
+        1.0717251136413373,
+        0.6550961071756125
       ],
       "rotation": [
         0,
@@ -972,7 +972,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -993,14 +993,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_devover_interfazpersonaje",
-      "order": 31.22821495169789
+      "order": 3.034278579110678
     },
     "542d7497-a6ce-4c00-a094-1ec19629c589": {
       "id": "542d7497-a6ce-4c00-a094-1ec19629c589",
       "position": [
         -0.623545955860533,
-        2.0513789198491703,
-        0.6067238625320095
+        1.3671247718302146,
+        0.3547299243907406
       ],
       "rotation": [
         0,
@@ -1015,7 +1015,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
       "components": {},
       "ui": {
         "type": "3d",
@@ -1036,7 +1036,7 @@
         "backgroundSize": "contain"
       },
       "name": "reproducir_audio",
-      "order": 34.412551130886854,
+      "order": 3.133812985541292,
       "audio": {
         "src": {
           "type": "url",
