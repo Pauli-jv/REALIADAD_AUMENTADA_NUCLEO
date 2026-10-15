@@ -400,7 +400,7 @@
       "ui": {
         "type": "3d",
         "width": 25,
-        "height": 77,
+        "height": 55,
         "image": {
           "type": "asset",
           "asset": "assets/pin_arepa.png"
@@ -410,6 +410,640 @@
       },
       "name": "pin_arepa",
       "order": 13.055366100691248
+    },
+    "3650c96d-e253-403a-a189-efde0344fe87": {
+      "id": "3650c96d-e253-403a-a189-efde0344fe87",
+      "position": [
+        0.2398902800531778,
+        1.2637879811455708,
+        1.132270283466368
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 9,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_arepa_de_chocolo.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_arepa",
+      "order": 14.997072510653169
+    },
+    "c7c24e66-6e93-46c8-bcde-ec3de1496a7d": {
+      "id": "c7c24e66-6e93-46c8-bcde-ec3de1496a7d",
+      "position": [
+        0.5447907752733652,
+        1.210377040792338,
+        0.9314252671186953
+      ],
+      "rotation": [
+        0,
+        0,
+        1.6653345369377378e-16,
+        1
+      ],
+      "scale": [
+        0.9999999999999998,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 9,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_bandeja_paisa.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_bandeja",
+      "order": 16.85470845272584
+    },
+    "b9ff5cd6-2c8f-4321-a583-5f502a423dbc": {
+      "id": "b9ff5cd6-2c8f-4321-a583-5f502a423dbc",
+      "position": [
+        -0.34422682997620946,
+        0.7901829927832738,
+        1.2893232093375535
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 1,
+        "height": 9,
+        "background": "#ad50ff",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_fiambre.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_fiambre",
+      "order": 18.793690522116847
+    },
+    "cc1d48dc-8776-4850-a8de-18d638940536": {
+      "id": "cc1d48dc-8776-4850-a8de-18d638940536",
+      "position": [
+        0.4348337521317568,
+        0.9946240211677793,
+        1.1690964431844433
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_mazamorra.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_mazamorra",
+      "order": 20.152530656209922
+    },
+    "b7818192-f08e-477c-9168-6d3378797b72": {
+      "id": "b7818192-f08e-477c-9168-6d3378797b72",
+      "position": [
+        -0.2519138896075521,
+        1.4881553538209746,
+        0.9385195856545019
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 9,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_migao.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_migao",
+      "order": 22.139903651765287
+    },
+    "6ece5ecb-673c-4e31-917e-7551f42d8a0f": {
+      "id": "6ece5ecb-673c-4e31-917e-7551f42d8a0f",
+      "position": [
+        0.07794409015324769,
+        1.4911038095895983,
+        0.9136096683922286
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 9,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_calentado_paisa.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "icono_calentado",
+      "order": 24.013856338129752
+    },
+    "09d92e14-e766-4d7e-b705-81fb074d7901": {
+      "id": "09d92e14-e766-4d7e-b705-81fb074d7901",
+      "position": [
+        0.10847114804402536,
+        2.0664158553124023,
+        0.7707330632473304
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "width": 100,
+        "height": 100,
+        "type": "3d",
+        "background": "#ffffff",
+        "backgroundOpacity": 0.5,
+        "image": {
+          "type": "asset",
+          "asset": "assets/INTERFAZ_CALENTADO.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "interfaz cale",
+      "order": 25.352099824294758
+    },
+    "bf725859-c2cf-49d0-95bb-5f5b6d175933": {
+      "id": "bf725859-c2cf-49d0-95bb-5f5b6d175933",
+      "position": [
+        -0.014142730772228967,
+        1.7144936189472393,
+        0.7819834858179217
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.5000000000000001,
+        0.5000000000000001,
+        0.5000000000000001
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 1,
+        "height": 6,
+        "background": "#ad50ff",
+        "borderRadius": 1,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_personaje.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "boton_personaje",
+      "order": 26.747456493374624
+    },
+    "b1a35e83-2cd8-4f88-853f-b182e3871221": {
+      "id": "b1a35e83-2cd8-4f88-853f-b182e3871221",
+      "position": [
+        0.2185786109572735,
+        1.713830364612985,
+        0.8332337834841702
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.5000000000000001,
+        0.5000000000000001,
+        0.5000000000000001
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 4,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_lista.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Botón_lista",
+      "order": 28.07612702653672
+    },
+    "1ceff067-3e79-4922-accf-eec3c3bafaaf": {
+      "id": "1ceff067-3e79-4922-accf-eec3c3bafaaf",
+      "position": [
+        -0.15537503897816973,
+        1.63928502058189,
+        0.7799220372315586
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 10,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_devolver.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Botón_devover_interfazplato",
+      "order": 30.059140778748045
+    },
+    "9af578fb-f0e7-4f7c-89ae-694d9948c133": {
+      "id": "9af578fb-f0e7-4f7c-89ae-694d9948c133",
+      "position": [
+        0.8416399745152602,
+        2.063402728540215,
+        0.8668001638284342
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "width": 100,
+        "height": 100,
+        "type": "3d",
+        "background": "#ffffff",
+        "backgroundOpacity": 0.5,
+        "image": {
+          "type": "asset",
+          "asset": "assets/interfaz_paso_a_paso.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "interfaz_pasos",
+      "order": 31.643463288496747
+    },
+    "ec755857-efed-404d-90a4-03fb04ab501e": {
+      "id": "ec755857-efed-404d-90a4-03fb04ab501e",
+      "position": [
+        0.5644442217942239,
+        1.63928502058189,
+        0.9070900453168814
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 10,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_devolver.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Botón_devover_interfazpasos",
+      "order": 30.675504848333347
+    },
+    "f0617e2f-fa7f-4495-afe7-59ebfa937ecd": {
+      "id": "f0617e2f-fa7f-4495-afe7-59ebfa937ecd",
+      "position": [
+        -0.8197329024694346,
+        2.007296056685607,
+        0.5901825819245126
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "width": 100,
+        "height": 78,
+        "type": "3d",
+        "background": "#ffffff",
+        "backgroundOpacity": 0.5,
+        "image": {
+          "type": "asset",
+          "asset": "assets/interfaz_personaje_audio.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "interfaz_personaje_audio",
+      "order": 33.40511806392532
+    },
+    "06a3adbc-71a4-4749-bf0e-d0b0dbbb0fd9": {
+      "id": "06a3adbc-71a4-4749-bf0e-d0b0dbbb0fd9",
+      "position": [
+        -1.0848462828379988,
+        1.755979261660293,
+        0.9070900453168814
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 10,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icn_devolver.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Botón_devover_interfazpersonaje",
+      "order": 31.22821495169789
+    },
+    "542d7497-a6ce-4c00-a094-1ec19629c589": {
+      "id": "542d7497-a6ce-4c00-a094-1ec19629c589",
+      "position": [
+        -0.623545955860533,
+        2.0513789198491703,
+        0.6067238625320095
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 30,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/icono_play_auido.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "reproducir_audio",
+      "order": 34.412551130886854,
+      "audio": {
+        "src": {
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=FUngxUY9RL8"
+        },
+        "paused": true
+      }
     }
   },
   "spaces": {
