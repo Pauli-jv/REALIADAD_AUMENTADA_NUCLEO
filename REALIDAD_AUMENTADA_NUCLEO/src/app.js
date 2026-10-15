@@ -1,7 +1,7 @@
 const onxrloaded = () => {
   XR8.XrController.configure({
     imageTargetData: [
-      require('../image-targets/mapa ´´3D´´.json')
+      require('../image-targets/MapaRABoceto.json')
     ],
   })
 }

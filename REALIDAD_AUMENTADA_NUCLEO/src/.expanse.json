@@ -157,55 +157,42 @@
       "components": {},
       "name": "Objetivo de la imagen",
       "imageTarget": {
-        "name": "mapa ´´3D´´"
+        "name": "MapaRABoceto"
       },
       "order": 2.913913935010341
     },
-    "c5596201-7730-4a9f-9754-63c0bbc94d05": {
-      "id": "c5596201-7730-4a9f-9754-63c0bbc94d05",
+    "1a29bf7f-5e74-4155-beb1-530b52e575bb": {
+      "id": "1a29bf7f-5e74-4155-beb1-530b52e575bb",
       "position": [
-        0.03407575579175823,
-        1.0113066518349223,
-        0.34153672822778147
+        0.014638005133509435,
+        0.43175116198680197,
+        0.6466683832801512
       ],
       "rotation": [
-        0,
-        0,
-        0,
-        1
+        0.3746065934159123,
+        -6.97077765868142e-19,
+        -2.0238681495016993e-18,
+        0.9271838545667873
       ],
       "scale": [
-        1,
-        1,
-        1
+        0.10000000000000014,
+        0.10000000000000024,
+        0.10000000000000024
       ],
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 35,
-        "height": 36,
-        "background": "#ad50ff",
-        "borderRadius": 18,
-        "flexDirection": "row",
-        "backgroundOpacity": 1,
-        "padding": "10",
-        "gap": "6",
-        "alignItems": "center",
-        "justifyContent": "center",
-        "image": {
+      "gltfModel": {
+        "src": {
           "type": "asset",
-          "asset": "assets/Icono_calentado.jpeg"
+          "asset": "assets/mapa_realidad_aumentada.glb"
         },
-        "backgroundSize": "contain"
+        "animationClip": "",
+        "loop": true
       },
-      "name": "Botón",
-      "order": 4.779581659018939,
-      "imageTarget": {
-        "name": "interfaz calentado"
-      }
+      "name": "mapa_realidad_aumentada.glb",
+      "order": 4.400410980420246
     }
   },
   "spaces": {
