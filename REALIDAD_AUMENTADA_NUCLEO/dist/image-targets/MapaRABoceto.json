@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 346,
+    "left": 0,
+    "width": 3300,
+    "height": 4400,
+    "isRotated": false,
+    "originalWidth": 3300,
+    "originalHeight": 5100
+  },
+  "imagePath": "image-targets/MapaRABoceto_luminance.png",
+  "metadata": null,
+  "name": "MapaRABoceto",
+  "resources": {
+    "originalImage": "MapaRABoceto_original.png",
+    "croppedImage": "MapaRABoceto_cropped.png",
+    "thumbnailImage": "MapaRABoceto_thumbnail.png",
+    "luminanceImage": "MapaRABoceto_luminance.png"
+  },
+  "created": 1792028535360,
+  "updated": 1792028559862
+}
