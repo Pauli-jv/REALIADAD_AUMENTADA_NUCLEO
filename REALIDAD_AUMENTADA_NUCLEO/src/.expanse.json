@@ -164,9 +164,9 @@
     "19f83d5b-ff37-4564-93d5-49b8d76c5beb": {
       "id": "19f83d5b-ff37-4564-93d5-49b8d76c5beb",
       "position": [
-        0.06151159948184358,
-        -0.011597178979414924,
-        0.22854536291126495
+        0.09243755166966741,
+        0.8497195460032182,
+        0.6405210550904192
       ],
       "rotation": [
         0,
@@ -175,13 +175,13 @@
         1
       ],
       "scale": [
-        0.47058823529411775,
-        0.47058823529411775,
-        0.47058823529411775
+        0.6,
+        0.6,
+        0.6
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "c314de69-1795-4ad6-a68e-b896bf435eeb": {
           "id": "c314de69-1795-4ad6-a68e-b896bf435eeb",
@@ -214,7 +214,7 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_arepa_de_chocolo",
-      "order": 2.4770379315650257
+      "order": 3.3770398662822094
     },
     "1f8e591a-7803-4ebc-bfce-6f3fc2c6e6b0": {
       "id": "1f8e591a-7803-4ebc-bfce-6f3fc2c6e6b0",
@@ -277,7 +277,7 @@
           "parameters": {
             "targetEntity": {
               "type": "entity",
-              "id": "87127f85-e334-4f7a-9f58-848a88389523"
+              "id": "c08fef2e-2568-4398-9eb4-e02d014e2805"
             }
           }
         }
@@ -331,7 +331,7 @@
           "parameters": {
             "targetEntity": {
               "type": "entity",
-              "id": "37ed8476-bc64-4ca9-90cd-7d1bd0a2e913"
+              "id": "f650b83c-de27-48fe-9423-f27da0df6fbd"
             }
           }
         }
@@ -360,8 +360,8 @@
     "177c530c-3a24-480f-be17-2837f75af308": {
       "id": "177c530c-3a24-480f-be17-2837f75af308",
       "position": [
-        -0.4298458138539372,
-        0.40154143310544144,
+        -0.4003362147031195,
+        0.3921419401576842,
         0.028233183184063204
       ],
       "rotation": [
@@ -371,9 +371,9 @@
         1
       ],
       "scale": [
-        0.36363636363636376,
-        0.28571428571428575,
-        0.40000000000000013
+        0.5636363636363639,
+        0.4428571428571425,
+        0.62
       ],
       "geometry": null,
       "material": null,
@@ -412,49 +412,12 @@
       "name": "Botón_salir_interfaz_arepa",
       "order": 3.8196931331758233
     },
-    "37ed8476-bc64-4ca9-90cd-7d1bd0a2e913": {
-      "id": "37ed8476-bc64-4ca9-90cd-7d1bd0a2e913",
-      "position": [
-        0.6994015548172356,
-        1.049573980627466,
-        0.2109093896926413
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.5882352941176472,
-        0.5882352941176472,
-        0.5882352941176472
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 107,
-        "height": 138,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Interfaz_preparacin_arepa.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "Interfaz_preparación_arepa",
-      "order": 2.550181858079927,
-      "disabled": true
-    },
     "6d5b5acc-37d1-433c-af97-58129538e2f0": {
       "id": "6d5b5acc-37d1-433c-af97-58129538e2f0",
       "position": [
-        -0.4570397510495231,
-        0.5054837375799144,
-        0.06129493560980526
+        -0.39870577618207426,
+        0.4054095795353523,
+        0.08367927954410503
       ],
       "rotation": [
         0,
@@ -463,13 +426,13 @@
         1
       ],
       "scale": [
-        0.4,
-        0.4,
-        0.4
+        0.564,
+        0.44299999999999984,
+        0.6199999999999999
       ],
       "geometry": null,
       "material": null,
-      "parentId": "37ed8476-bc64-4ca9-90cd-7d1bd0a2e913",
+      "parentId": "f650b83c-de27-48fe-9423-f27da0df6fbd",
       "components": {
         "d154ff9e-e605-465b-bd9b-b9bde1e366b0": {
           "id": "d154ff9e-e605-465b-bd9b-b9bde1e366b0",
@@ -477,7 +440,7 @@
           "parameters": {
             "targetEntity": {
               "type": "entity",
-              "id": "37ed8476-bc64-4ca9-90cd-7d1bd0a2e913"
+              "id": "f650b83c-de27-48fe-9423-f27da0df6fbd"
             },
             "activateOnClick": false
           }
@@ -502,114 +465,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_salir_prep_arepa",
-      "order": 12.558971470761843
-    },
-    "87127f85-e334-4f7a-9f58-848a88389523": {
-      "id": "87127f85-e334-4f7a-9f58-848a88389523",
-      "position": [
-        -0.6605184326786353,
-        1.0441444298888514,
-        0.2617829447596457
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.5882352941176472,
-        0.5882352941176472,
-        0.5882352941176472
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 108,
-        "height": 68,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Interfaz_dato_arepa.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "Interfaz_dato_curioso_arepa",
-      "order": 2.586753821337377,
-      "audio": {
-        "paused": false,
-        "loop": true,
-        "src": {
-          "type": "asset",
-          "asset": "assets/Dato_curioso_arepa.mp3"
-        }
-      },
-      "disabled": true
-    },
-    "001f6a54-b785-4a84-a81c-2a244697501c": {
-      "id": "001f6a54-b785-4a84-a81c-2a244697501c",
-      "position": [
-        -0.4389164233606737,
-        0.2555538680384952,
-        0.01066241677180435
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.4000000000000001,
-        0.4000000000000001,
-        0.4000000000000001
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "87127f85-e334-4f7a-9f58-848a88389523",
-      "components": {
-        "f0fdc732-ad56-4e31-b6b3-c5b2a2e6cc9b": {
-          "id": "f0fdc732-ad56-4e31-b6b3-c5b2a2e6cc9b",
-          "name": "Entity Toggle Button",
-          "parameters": {
-            "activateOnClick": false,
-            "targetEntity": {
-              "type": "entity",
-              "id": "87127f85-e334-4f7a-9f58-848a88389523"
-            }
-          }
-        }
-      },
-      "ui": {
-        "type": "3d",
-        "width": 0,
-        "height": 0,
-        "background": "#ad50ff",
-        "borderRadius": 0,
-        "flexDirection": "row",
-        "backgroundOpacity": 1,
-        "padding": "10",
-        "gap": "6",
-        "alignItems": "center",
-        "justifyContent": "center",
-        "image": {
-          "type": "asset",
-          "asset": "assets/Boton_salir_.png"
-        },
-        "backgroundSize": "contain"
-      },
-      "name": "Boton_salir_dato_arepa",
-      "order": 15.539652326951892
+      "order": 8.692314717579585
     },
     "bf4cad2e-326d-47d2-8bcf-ecbf0d15b66c": {
       "id": "bf4cad2e-326d-47d2-8bcf-ecbf0d15b66c",
       "position": [
-        -0.009722437910313617,
-        0.051235613703368266,
-        0.1147311041881234
+        -0.0286603118969998,
+        0.9565352935639496,
+        0.4470368152610787
       ],
       "rotation": [
         0.7071067811865477,
@@ -618,13 +481,13 @@
         0.7071067811865474
       ],
       "scale": [
-        4.000000000000005,
-        4.000000000000011,
-        4.000000000000011
+        4.500000000000014,
+        4.500000000000023,
+        4.500000000000023
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "gltfModel": {
         "src": {
@@ -635,14 +498,14 @@
         "loop": true
       },
       "name": "mapa_realidad_aumentada.glb",
-      "order": 2.4404659683075756
+      "order": 2.084293217849101
     },
     "d834f2c4-005f-4850-ad28-47fb28f93bde": {
       "id": "d834f2c4-005f-4850-ad28-47fb28f93bde",
       "position": [
-        0.022501101030969868,
-        1.0408188660702207,
-        0.22138369754875672
+        0.026119704303182112,
+        2.371680557367622,
+        0.6283462239741553
       ],
       "rotation": [
         0,
@@ -651,9 +514,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294117647063,
-        0.5882352941176472
+        0.7999999999999999,
+        1.0181818181818183,
+        0.7272727272727271
       ],
       "geometry": {
         "type": "plane",
@@ -668,18 +531,19 @@
           "asset": "assets/Interfaz_arepa_de_chocolo.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_arepa",
-      "order": 2.5136098948224763,
-      "disabled": true
+      "order": 3.6323203907281902,
+      "disabled": true,
+      "hidden": false
     },
     "90441373-a050-4d09-93a6-371f8bb46f8e": {
       "id": "90441373-a050-4d09-93a6-371f8bb46f8e",
       "position": [
-        0.007136569087921565,
-        0.09904618066315052,
-        0.22506766031889966
+        0.031148231971467155,
+        0.9797641624843927,
+        0.6346089606833969
       ],
       "rotation": [
         0,
@@ -688,13 +552,13 @@
         1
       ],
       "scale": [
-        0.47058823529411786,
-        0.47058823529411786,
-        0.47058823529411786
+        0.6,
+        0.6,
+        0.6
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "8d4b1262-11ad-4842-af84-d3ccc7cc9f1c": {
           "id": "8d4b1262-11ad-4842-af84-d3ccc7cc9f1c",
@@ -726,14 +590,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_calentado",
-      "order": 2.6233257845948277
+      "order": 2.531124861409699
     },
     "3896c67d-dc83-4963-ba05-c0aa72d18743": {
       "id": "3896c67d-dc83-4963-ba05-c0aa72d18743",
       "position": [
-        -0.10645762708178116,
-        0.12161866318319348,
-        0.18095173034650405
+        -0.1202003093965936,
+        1.0309824156989869,
+        0.5596118797303258
       ],
       "rotation": [
         0,
@@ -742,13 +606,13 @@
         1
       ],
       "scale": [
-        0.47058823529411775,
-        0.47058823529411775,
-        0.47058823529411775
+        0.6000000000000001,
+        0.6000000000000001,
+        0.6000000000000001
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "ui": {
         "type": "3d",
@@ -769,14 +633,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_migao",
-      "order": 2.6598977478522783
+      "order": 2.6547698428620192
     },
     "7754e38d-e04d-4e25-9265-078cc5819a4d": {
       "id": "7754e38d-e04d-4e25-9265-078cc5819a4d",
       "position": [
-        0.007136569087921565,
-        -0.3398513233397531,
-        0.17699491674185638
+        -0.026315842330563707,
+        0.4671269333237995,
+        0.5528852966024242
       ],
       "rotation": [
         0,
@@ -785,13 +649,13 @@
         1
       ],
       "scale": [
-        0.47058823529411775,
-        0.47058823529411775,
-        0.47058823529411775
+        0.6,
+        0.6,
+        0.6
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "ui": {
         "type": "3d",
@@ -812,14 +676,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_mazamorra",
-      "order": 2.696469711109729
+      "order": 2.77841482431434
     },
     "d2921a34-a2fa-4e88-90c5-bfb2aa08d9d0": {
       "id": "d2921a34-a2fa-4e88-90c5-bfb2aa08d9d0",
       "position": [
-        -0.030886037221557982,
-        -0.24185244944062212,
-        0.16764191427518046
+        -0.10435469065932446,
+        0.5892027552837545,
+        0.5369851924090685
       ],
       "rotation": [
         0,
@@ -828,13 +692,13 @@
         1
       ],
       "scale": [
-        0.47058823529411775,
-        0.47058823529411775,
-        0.47058823529411775
+        0.6,
+        0.6,
+        0.6
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "ui": {
         "type": "3d",
@@ -855,14 +719,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_fiambre",
-      "order": 2.733041674367179
+      "order": 2.9020598057666604
     },
     "6517c8cc-3f19-47a2-b2f4-ab40b22eb5b4": {
       "id": "6517c8cc-3f19-47a2-b2f4-ab40b22eb5b4",
       "position": [
-        -0.06399405312941663,
-        -0.08356028581768082,
-        0.17080695802648524
+        -0.08569165825189348,
+        0.7508691973898869,
+        0.5423657667862987
       ],
       "rotation": [
         0,
@@ -871,13 +735,13 @@
         1
       ],
       "scale": [
-        0.47058823529411775,
-        0.47058823529411775,
-        0.47058823529411775
+        0.6,
+        0.6,
+        0.6
       ],
       "geometry": null,
       "material": null,
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {
         "203342ea-20ce-4df9-9a82-9d9d9b761ed9": {
           "id": "203342ea-20ce-4df9-9a82-9d9d9b761ed9",
@@ -909,14 +773,14 @@
         "backgroundSize": "contain"
       },
       "name": "Botón_bandeja_paisa",
-      "order": 2.7696136376246296
+      "order": 3.025704787218981
     },
     "02bb63b8-e1a4-4357-9de2-e4972d3a1d5d": {
       "id": "02bb63b8-e1a4-4357-9de2-e4972d3a1d5d",
       "position": [
-        0.018995209516680496,
-        1.0464181294955206,
-        0.23730164811830903
+        0.026,
+        2.372,
+        0.628
       ],
       "rotation": [
         0,
@@ -925,9 +789,9 @@
         1
       ],
       "scale": [
-        0.6470588235294118,
-        0.8235294117647061,
-        0.5882352941176472
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -942,10 +806,10 @@
           "asset": "assets/Interfaz_calentado.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_calentado",
-      "order": 2.8061856008820802,
+      "order": 21.078680463429677,
       "disabled": true
     },
     "16991e52-2d87-4ff3-98e8-4acbb4af6bb3": {
@@ -1016,9 +880,9 @@
         1
       ],
       "scale": [
-        0.3636363636363638,
-        0.2857142857142858,
-        0.40000000000000013
+        0.564,
+        0.443,
+        0.62
       ],
       "geometry": null,
       "material": null,
@@ -1114,9 +978,9 @@
     "c29711d2-0a64-4b79-b11b-e9b55976f898": {
       "id": "c29711d2-0a64-4b79-b11b-e9b55976f898",
       "position": [
-        0.7052695145779755,
-        1.0495487692568566,
-        0.21294371286400773
+        0.867,
+        2.374,
+        0.611
       ],
       "rotation": [
         0,
@@ -1125,9 +989,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294430661658,
-        0.5882353254191071
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -1142,18 +1006,18 @@
           "asset": "assets/Interfaz_preparacin_calentado.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_preparación_calentado",
-      "order": 2.8427575641395304,
+      "order": 22.51985667604256,
       "disabled": true
     },
     "c0736017-3470-4f4f-b947-c1eb5ce01dd1": {
       "id": "c0736017-3470-4f4f-b947-c1eb5ce01dd1",
       "position": [
-        -0.4245593478570733,
-        0.39596376609532613,
-        0.05783658314085405
+        -0.399,
+        0.405,
+        0.084
       ],
       "rotation": [
         0,
@@ -1162,9 +1026,9 @@
         1
       ],
       "scale": [
-        0.36363636363636365,
-        0.285714274854596,
-        0.3999999787150085
+        0.564,
+        0.443,
+        0.62
       ],
       "geometry": null,
       "material": null,
@@ -1206,9 +1070,9 @@
     "9047566d-7853-4a75-be47-37be5b499d72": {
       "id": "9047566d-7853-4a75-be47-37be5b499d72",
       "position": [
-        -0.6594603536662623,
-        1.0533981187675834,
-        0.2698053494335053
+        -0.934,
+        2.354,
+        0.697
       ],
       "rotation": [
         0,
@@ -1217,9 +1081,9 @@
         1
       ],
       "scale": [
-        0.6470588235294121,
-        0.4705882665955778,
-        0.5882353254191071
+        1.06,
+        0.700000053212482,
+        1.0000000532124818
       ],
       "geometry": {
         "type": "plane",
@@ -1234,10 +1098,10 @@
           "asset": "assets/Interfaz_dato_calentado.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_dato_curioso_calentado",
-      "order": 2.879329527396981,
+      "order": 24.94627237421503,
       "audio": {
         "src": {
           "type": "asset",
@@ -1250,9 +1114,9 @@
     "4e5dd59b-045b-4aa5-9146-c882df32b959": {
       "id": "4e5dd59b-045b-4aa5-9146-c882df32b959",
       "position": [
-        -0.4206554980594748,
-        0.4128433631160693,
-        0.03932269920974152
+        -0.429,
+        0.359,
+        0.005
       ],
       "rotation": [
         0,
@@ -1261,9 +1125,9 @@
         1
       ],
       "scale": [
-        0.3636363636363636,
-        0.499999966742201,
-        0.39999997871500853
+        0.426,
+        0.644,
+        0.451
       ],
       "geometry": null,
       "material": null,
@@ -1305,20 +1169,20 @@
     "830a74c9-5ad1-4392-82c3-7399924d9235": {
       "id": "830a74c9-5ad1-4392-82c3-7399924d9235",
       "position": [
-        -0.018326989753536527,
-        0.2529564154984527,
-        0.027207301334229106
+        0.01688776438257083,
+        0.2870171796991636,
+        0.11299999999999999
       ],
       "rotation": [
-        0.5054751926990214,
+        0.5046730451539986,
         0,
         0,
-        0.859093405767554
+        0.8633105568073347
       ],
       "scale": [
-        0.12363636363636366,
-        0.13411651867297852,
-        0.09277508199776181
+        0.10000000000000002,
+        0.005999999999999999,
+        0.08
       ],
       "geometry": null,
       "material": null,
@@ -1338,9 +1202,9 @@
     "ee15ffe8-37a4-4c19-94bc-a0145063eaf1": {
       "id": "ee15ffe8-37a4-4c19-94bc-a0145063eaf1",
       "position": [
-        0.016670063189016312,
-        1.0409207351363392,
-        0.22118003638748893
+        0.026,
+        2.372,
+        0.628
       ],
       "rotation": [
         0,
@@ -1349,9 +1213,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294117647061,
-        0.5882353254191071
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -1366,10 +1230,10 @@
           "asset": "assets/Interfaz_bandeja_paisa.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_bandeja_paisa",
-      "order": 2.9159014906544316,
+      "order": 28.790009802486694,
       "disabled": true
     },
     "8e8a9199-7105-4aa7-aade-cd3028065099": {
@@ -1538,9 +1402,9 @@
     "e400b092-0320-4b6c-be7d-d2dd55ed78bb": {
       "id": "e400b092-0320-4b6c-be7d-d2dd55ed78bb",
       "position": [
-        0.7053718632055689,
-        1.0497442645481039,
-        0.21294474226984186
+        0.867,
+        2.374,
+        0.611
       ],
       "rotation": [
         0,
@@ -1549,9 +1413,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294117647061,
-        0.5882352941176472
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -1566,18 +1430,18 @@
           "asset": "assets/Interfaz_preparacin_bandeja.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_preparación_bandeja",
-      "order": 2.9524734539118818,
+      "order": 32.828939522680855,
       "disabled": true
     },
     "d560de5c-f6d3-4939-8407-d88d1574392e": {
       "id": "d560de5c-f6d3-4939-8407-d88d1574392e",
       "position": [
-        -0.4247175230088085,
-        0.39572639400610776,
-        0.057834836228564224
+        -0.399,
+        0.405,
+        0.084
       ],
       "rotation": [
         0,
@@ -1586,8 +1450,8 @@
         1
       ],
       "scale": [
-        0.36363636363636365,
-        0.28571428571428575,
+        0.564,
+        0.443,
         0.4
       ],
       "geometry": null,
@@ -1630,9 +1494,9 @@
     "87314a13-501b-4279-bec1-da42c2d35a99": {
       "id": "87314a13-501b-4279-bec1-da42c2d35a99",
       "position": [
-        -0.6593340191473727,
-        1.05327367631281,
-        0.27000356579925366
+        -0.934,
+        2.354,
+        0.697
       ],
       "rotation": [
         0,
@@ -1641,9 +1505,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.47058823529411775,
-        0.5882352941176472
+        1.06,
+        0.7,
+        1
       ],
       "geometry": {
         "type": "plane",
@@ -1658,10 +1522,10 @@
           "asset": "assets/Interfaz_dato_bandeja.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_dato_bandeja",
-      "order": 2.9890454171693324,
+      "order": 34.10507572788184,
       "disabled": true,
       "audio": {
         "src": {
@@ -1673,9 +1537,9 @@
     "1fa66300-f1b2-42d9-9cbe-2f8b25572ca8": {
       "id": "1fa66300-f1b2-42d9-9cbe-2f8b25572ca8",
       "position": [
-        -0.42085074231594066,
-        0.4131078307929874,
-        0.03898573348042789
+        -0.429,
+        0.359,
+        0.005
       ],
       "rotation": [
         0,
@@ -1684,9 +1548,9 @@
         1
       ],
       "scale": [
-        0.3636363636363637,
-        0.5,
-        0.4000000000000001
+        0.426,
+        0.644,
+        0.451
       ],
       "geometry": null,
       "material": null,
@@ -1728,9 +1592,9 @@
     "d4761dc3-c983-4f2b-a4ce-f5291d7e5742": {
       "id": "d4761dc3-c983-4f2b-a4ce-f5291d7e5742",
       "position": [
-        0.01654833379380392,
-        1.0409207351363392,
-        0.22118003638748893
+        0.026,
+        2.372,
+        0.628
       ],
       "rotation": [
         0,
@@ -1739,9 +1603,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294117647061,
-        0.5882352941176472
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -1756,11 +1620,10 @@
           "asset": "assets/Interfaz_fiambre_montaero.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_fiambre",
-      "order": 3.025617380426783,
-      "disabled": true
+      "order": 36.028458631425075
     },
     "a72dbcc5-a71b-4b61-a824-913a19a9ecc1": {
       "id": "a72dbcc5-a71b-4b61-a824-913a19a9ecc1",
@@ -1928,9 +1791,9 @@
     "bf0d6bed-0864-4a72-94e0-a4f00782029d": {
       "id": "bf0d6bed-0864-4a72-94e0-a4f00782029d",
       "position": [
-        0.7053718632055689,
-        1.0497442645481039,
-        0.21294474226984186
+        0.867,
+        2.374,
+        0.611
       ],
       "rotation": [
         0,
@@ -1939,9 +1802,9 @@
         1
       ],
       "scale": [
-        0.6470588235294119,
-        0.8235294117647061,
-        0.5882352941176472
+        0.8,
+        1.018,
+        0.727
       ],
       "geometry": {
         "type": "plane",
@@ -1956,18 +1819,17 @@
           "asset": "assets/Interfaz_preparacin_fiambre.png"
         }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_prep_fiambre",
-      "order": 3.062189343684233,
-      "disabled": true
+      "order": 37.381510596877796
     },
     "faa94fc5-3180-4012-8e51-c24e7dec581c": {
       "id": "faa94fc5-3180-4012-8e51-c24e7dec581c",
       "position": [
-        -0.4247175230088085,
-        0.39572639400610776,
-        0.057834836228564224
+        -0.399,
+        0.405,
+        0.084
       ],
       "rotation": [
         0,
@@ -1976,9 +1838,9 @@
         1
       ],
       "scale": [
-        0.36363636363636365,
-        0.28571428571428575,
-        0.4
+        0.564,
+        0.443,
+        0.62
       ],
       "geometry": null,
       "material": null,
@@ -2020,20 +1882,20 @@
     "28ea2516-f69a-486d-8797-4efe4af19e23": {
       "id": "28ea2516-f69a-486d-8797-4efe4af19e23",
       "position": [
-        0.007136569087921565,
-        -0.5114322060401316,
-        -0.1482317283183935
+        -0.934,
+        2.354,
+        0.697
       ],
       "rotation": [
-        -0.7071067999999991,
         0,
         0,
-        0.7071067623730954
+        0,
+        1
       ],
       "scale": [
-        0.5882352941176472,
-        0.5882353254191071,
-        0.5882353254191071
+        1.06,
+        0.7,
+        1
       ],
       "geometry": {
         "type": "plane",
@@ -2041,14 +1903,201 @@
         "height": 1
       },
       "material": {
-        "type": "basic",
-        "color": "#FFFFFF"
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaz_dato_fiambre.png"
+        }
       },
-      "parentId": "e91c86a8-81d9-424c-9896-45dedff4f25b",
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "name": "Plano",
-      "order": 3.0987613069416837,
+      "name": "Interfaz_dato_fiambre",
+      "order": 38.81116842299225
+    },
+    "f650b83c-de27-48fe-9423-f27da0df6fbd": {
+      "id": "f650b83c-de27-48fe-9423-f27da0df6fbd",
+      "position": [
+        0.8668755791325597,
+        2.374306375535397,
+        0.611
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.8,
+        1.018,
+        0.727
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaz_preparacin_arepa.png"
+        }
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Interfaz_prep_arepa",
+      "order": 7.902069509400046,
       "disabled": true
+    },
+    "c08fef2e-2568-4398-9eb4-e02d014e2805": {
+      "id": "c08fef2e-2568-4398-9eb4-e02d014e2805",
+      "position": [
+        -0.934,
+        2.354,
+        0.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.06,
+        0.7000000000000001,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaz_dato_arepa.png"
+        }
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Interfaz_dato_arepa",
+      "order": 10.604856944018488,
+      "disabled": true
+    },
+    "ca1bae5a-8d36-4095-8346-cc2de5ae97fb": {
+      "id": "ca1bae5a-8d36-4095-8346-cc2de5ae97fb",
+      "position": [
+        -0.4293351610650422,
+        0.35931786221767137,
+        0.00453594918053446
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.4256603773584905,
+        0.6442485714285711,
+        0.4507399999999999
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "c08fef2e-2568-4398-9eb4-e02d014e2805",
+      "components": {
+        "d154ff9e-e605-465b-bd9b-b9bde1e366b0": {
+          "id": "d154ff9e-e605-465b-bd9b-b9bde1e366b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c08fef2e-2568-4398-9eb4-e02d014e2805"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Boton_salir_.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Botón_salir_dato_arepa",
+      "order": 12.89143804357882
+    },
+    "04b2a6a3-fcaa-4078-aad0-8aac4a2e38e2": {
+      "id": "04b2a6a3-fcaa-4078-aad0-8aac4a2e38e2",
+      "position": [
+        -0.42900000000000005,
+        0.359,
+        0.0050000000000000044
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.426,
+        0.644,
+        0.451
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "28ea2516-f69a-486d-8797-4efe4af19e23",
+      "components": {
+        "f0fdc732-ad56-4e31-b6b3-c5b2a2e6cc9b": {
+          "id": "f0fdc732-ad56-4e31-b6b3-c5b2a2e6cc9b",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "28ea2516-f69a-486d-8797-4efe4af19e23"
+            }
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 0,
+        "height": 0,
+        "background": "#ad50ff",
+        "borderRadius": 0,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Boton_salir_.png"
+        },
+        "backgroundSize": "contain"
+      },
+      "name": "Boton_salir_dato_fiambre",
+      "order": 37.244432028856195
     }
   },
   "spaces": {
