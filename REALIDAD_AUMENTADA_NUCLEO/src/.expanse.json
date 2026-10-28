@@ -87,7 +87,7 @@
       "position": [
         -0.0742583731639748,
         1.8825003795600486,
-        3.165642065175231
+        3.8493512411811914
       ],
       "rotation": [
         0,
@@ -1564,7 +1564,8 @@
         "src": {
           "type": "asset",
           "asset": "assets/Bandeja_paisa.mp3"
-        }
+        },
+        "loop": true
       }
     },
     "1fa66300-f1b2-42d9-9cbe-2f8b25572ca8": {
@@ -1954,7 +1955,8 @@
         "src": {
           "type": "asset",
           "asset": "assets/Fiambre_Montaero.mp3"
-        }
+        },
+        "loop": true
       }
     },
     "f650b83c-de27-48fe-9423-f27da0df6fbd": {
@@ -2034,7 +2036,8 @@
         "src": {
           "type": "asset",
           "asset": "assets/Dato_curioso_arepa.mp3"
-        }
+        },
+        "loop": true
       }
     },
     "ca1bae5a-8d36-4095-8346-cc2de5ae97fb": {
@@ -2478,7 +2481,8 @@
         "src": {
           "type": "asset",
           "asset": "assets/Mazamorra.mp3"
-        }
+        },
+        "loop": true
       },
       "disabled": true
     },
@@ -2650,7 +2654,8 @@
         "src": {
           "type": "asset",
           "asset": "assets/Migao.mp3"
-        }
+        },
+        "loop": true
       },
       "disabled": true
     },
