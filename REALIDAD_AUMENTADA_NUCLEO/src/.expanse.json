@@ -85,9 +85,9 @@
       "material": null,
       "name": "Camera",
       "position": [
-        -0.14456319878939186,
-        1.684640520064959,
-        3.9861292396312433
+        -0.0742583731639748,
+        1.8825003795600486,
+        3.165642065175231
       ],
       "rotation": [
         0,
@@ -613,7 +613,18 @@
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
+      "components": {
+        "50d544fe-8d22-4393-a04d-9e174b0fd8b4": {
+          "id": "50d544fe-8d22-4393-a04d-9e174b0fd8b4",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "a8287c16-7d90-4340-8a0f-3fcf7a3d9734"
+            }
+          }
+        }
+      },
       "ui": {
         "type": "3d",
         "width": 12,
@@ -2560,7 +2571,8 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_migao",
-      "order": 45.44369195846729
+      "order": 45.44369195846729,
+      "disabled": true
     },
     "4d582f99-6b02-4905-bcaf-a2403dc41653": {
       "id": "4d582f99-6b02-4905-bcaf-a2403dc41653",
@@ -2596,7 +2608,8 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_prep_migao",
-      "order": 46.95629897092454
+      "order": 46.95629897092454,
+      "disabled": true
     },
     "573fd56d-7108-4b82-8558-ef5f2539c85f": {
       "id": "573fd56d-7108-4b82-8558-ef5f2539c85f",
@@ -2638,7 +2651,8 @@
           "type": "asset",
           "asset": "assets/Migao.mp3"
         }
-      }
+      },
+      "disabled": true
     },
     "eb6de97f-82fb-4a38-a1b7-167bcf6e6997": {
       "id": "eb6de97f-82fb-4a38-a1b7-167bcf6e6997",
