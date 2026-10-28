@@ -220,7 +220,7 @@
       "id": "1f8e591a-7803-4ebc-bfce-6f3fc2c6e6b0",
       "position": [
         -0.014919917751589426,
-        0.27233246910114484,
+        0.272,
         0.11336044443300353
       ],
       "rotation": [
@@ -2184,8 +2184,7 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_mazamorra",
-      "order": 40.03615465606372,
-      "disabled": true
+      "order": 40.03615465606372
     },
     "277ae180-168c-48a3-9c69-1fdabe88fe51": {
       "id": "277ae180-168c-48a3-9c69-1fdabe88fe51",
@@ -2931,6 +2930,39 @@
       },
       "name": "Botón_salir_interfaz_migao",
       "order": 43.089634464331816
+    },
+    "51c93af2-3d9c-4047-96fa-99e05aa56525": {
+      "id": "51c93af2-3d9c-4047-96fa-99e05aa56525",
+      "position": [
+        0.004200549835745401,
+        0.25424421538380626,
+        0.11299999999999999
+      ],
+      "rotation": [
+        0.5,
+        0,
+        0,
+        0.8660254037844385
+      ],
+      "scale": [
+        0.05000000000000001,
+        0.04999999999999998,
+        0.04999999999999999
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "932d908a-547c-4aff-9f4d-7deea224c7a5",
+      "components": {},
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/mazamorra.glb"
+        },
+        "animationClip": "*",
+        "loop": true
+      },
+      "name": "mazamorra.glb",
+      "order": 39.29667061443335
     }
   },
   "spaces": {
