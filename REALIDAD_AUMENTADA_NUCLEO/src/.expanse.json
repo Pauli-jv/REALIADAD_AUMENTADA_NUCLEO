@@ -1657,8 +1657,7 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_fiambre",
-      "order": 36.028458631425075,
-      "disabled": true
+      "order": 36.028458631425075
     },
     "a72dbcc5-a71b-4b61-a824-913a19a9ecc1": {
       "id": "a72dbcc5-a71b-4b61-a824-913a19a9ecc1",
@@ -2575,7 +2574,8 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "name": "Interfaz_migao",
-      "order": 45.44369195846729
+      "order": 45.44369195846729,
+      "disabled": true
     },
     "4d582f99-6b02-4905-bcaf-a2403dc41653": {
       "id": "4d582f99-6b02-4905-bcaf-a2403dc41653",
@@ -2996,6 +2996,72 @@
       },
       "name": "migao.glb",
       "order": 39.510597021615126
+    },
+    "6e1ff097-e4a9-4984-a7b0-81e625eed360": {
+      "id": "6e1ff097-e4a9-4984-a7b0-81e625eed360",
+      "position": [
+        0.016549526303545233,
+        0.21814857048676561,
+        0.167273368616755
+      ],
+      "rotation": [
+        0.5347453092650257,
+        0,
+        0,
+        0.8450132864156942
+      ],
+      "scale": [
+        0.10000000000000002,
+        0.099583779659864,
+        0.09958377965986401
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "ee15ffe8-37a4-4c19-94bc-a0145063eaf1",
+      "components": {},
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/bandeja_paisa.glb"
+        },
+        "animationClip": "EmptyAction",
+        "loop": true
+      },
+      "name": "bandeja_paisa.glb",
+      "order": 32.172830832319576
+    },
+    "b5f363f5-3f06-45a0-9410-35b6c288d824": {
+      "id": "b5f363f5-3f06-45a0-9410-35b6c288d824",
+      "position": [
+        0.029793531032068152,
+        0.3014092379721949,
+        0.13996661826779555
+      ],
+      "rotation": [
+        0.45136399283436446,
+        0.5735359183938401,
+        0.4473216095046318,
+        0.504768003666179
+      ],
+      "scale": [
+        0.10434273153027376,
+        0.1421963534050491,
+        0.13132797606155583
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "d4761dc3-c983-4f2b-a4ce-f5291d7e5742",
+      "components": {},
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/fiambre.glb"
+        },
+        "animationClip": "Empty.001Action",
+        "loop": true
+      },
+      "name": "fiambre.glb",
+      "order": 35.79068917006851
     }
   },
   "spaces": {
